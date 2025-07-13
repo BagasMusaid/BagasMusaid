@@ -112,13 +112,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BagasMusaid&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BagasMusaid&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=BagasMusaid&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BagasMusaid&radius=16&theme=redical&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h2 align="left">Play Games With Me</h2>
+<h2 align="left">Play Games</h2>
 
 
 
