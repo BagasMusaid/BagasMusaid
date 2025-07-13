@@ -12,8 +12,6 @@
 
 <h1 align="center">Hi 🖐️, I'm Bagas Musaid</h1>
 
-###
-
 <h3 align="center">Junior Web Developer From Yogyakarta</h3>
 
 ###
