@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://bagasmusaid.github.io/portfolio/](https://bagasmusaid.github.io/portfolio/)
-
 - 📫 How to reach me **bagasmusaid23@gmail.com**
 - 📢 Fun fact **I think I am funny**
 
